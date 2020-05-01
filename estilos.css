@@ -18,3 +18,13 @@
     margin-left: 165px;
     margin-top: -52px;
 }
+/*Creacion de estilos CSS para la tabla de botones de framework's*/
+.tabla3{
+    display: block;
+    margin: 3px;
+    width: px;
+    height: px;
+    background-color: rgb(201, 201, 201) ;
+    margin-left: 165px;
+    margin-top: -70px;
+}
