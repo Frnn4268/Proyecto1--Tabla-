@@ -28,3 +28,19 @@
     margin-left: 165px;
     margin-top: -70px;
 }
+/*Creacion de estilos CSS para botones de las tablas 2 y 3*/
+.tabla td button{
+    display: block;
+    width: auto;
+    height: auto;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*Creacion de estilos para th y h2*/
+.th h2{
+    font-size: 17px;
+    margin: 5px;
+}
